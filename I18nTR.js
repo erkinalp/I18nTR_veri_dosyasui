@@ -1757,16 +1757,16 @@ function replaceContent() {
                     '更高的值使波浪更强，而较低的值使波浪更弱。较强的波浪能够延伸到地图更远的地方。较弱的波浪可能在到达岸边之前就散开。原版是9950，推荐值为9980-9999。实际值是其10000倍之一。'
                 },
                 [MAIN.工具框.标签],{
-                    "Flow":"流量",
-                    'Depth':'深度'
+                    "Flow":"Akı",
+                    'Depth':'Derinlik'
                 },
                 [MAIN.悬浮框.标题],{
-                    "Reduce Flow/Depth/Elevation": '减少流量/深度/高程',
-                    'Increase Flow/Depth/Elevation': '增加流量/深度/高程',
-                    'Flow/Depth/Elevation Rate of Change': '流量/深度/高程变化率',
-                    'Reduce Radius': '减小半径',
-                    'Increase Radius': '增加半径',
-                    'Radius Rate of Change': '半径变化率'
+                    "Reduce Flow/Depth/Elevation": 'Azalt',
+                    'Increase Flow/Depth/Elevation': 'Artır',
+                    'Flow/Depth/Elevation Rate of Change': 'Akım/Derinlik/Yükselti Değişim Hızı',
+                    'Reduce Radius': 'Yarıçapı Küçült',
+                    'Increase Radius': 'Yarıçapı Büyüt',
+                    'Radius Rate of Change': 'Yarıçap Değişim Hızı'
 
                 },
                 [MAIN.悬浮框.内容],{
